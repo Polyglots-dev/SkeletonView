@@ -13,7 +13,7 @@
 
 import UIKit
 
-@objc public struct SkeletonGradient {
+public struct SkeletonGradient {
     
     private let gradientColors: [UIColor]
     
