@@ -2,7 +2,7 @@
 
 import UIKit
 
-@objc public enum SkeletonTransitionStyle: Equatable {
+public enum SkeletonTransitionStyle: Equatable {
     case none
     case crossDissolve(TimeInterval)
 }
